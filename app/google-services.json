@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "875250469788",
+    "project_id": "dmlapp-b78a6",
+    "storage_bucket": "dmlapp-b78a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875250469788:android:83cd41eb82f8e901581659",
+        "android_client_info": {
+          "package_name": "com.example.dmlapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "875250469788-fplvl2raut3dargj5af747ov1qsm4651.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvQSyp_gO-aK7NlwTOUfGtLcXRkWWeK14"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "875250469788-fplvl2raut3dargj5af747ov1qsm4651.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

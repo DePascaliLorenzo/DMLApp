@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DMLApp</string>
+    <string name="Log"><u>Sei già registrato? Accedi</u></string>
+    <string name="Log2"><u>Sei nuovo? Registrati</u></string>
+</resources>
